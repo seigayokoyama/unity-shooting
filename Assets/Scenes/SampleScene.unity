@@ -199,6 +199,7 @@ GameObject:
   m_Component:
   - component: {fileID: 954277904}
   - component: {fileID: 954277903}
+  - component: {fileID: 954277905}
   m_Layer: 0
   m_Name: rocket
   m_TagString: Untagged
@@ -265,3 +266,14 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &954277905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 954277902}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bec1dafcd58648e899f1b1464165d1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
